@@ -1,4 +1,4 @@
- Simple Notes 📒
+# Simple Notes 📒
 
 Capture your thoughts, ideas, and todos with Simple Notes, a minimalist web-based note-taking application.
 
